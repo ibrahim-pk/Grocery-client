@@ -14,7 +14,7 @@ Welcome to the MERN Grocery Shop Project! This project is built using the MERN (
 - 🔎 **Search Products**: Search for specific products by name or keywords.
 - 🛒 **Cart Items**: Add products to the cart for purchase.
 - 🛍️ **Order Summary**: Review and confirm orders before checkout.
-- 📄 **Order Details**: View order history and details.
+- 📄 **Order Details**:payment by sslcommerz and View order history and details.
 - 👨‍💼 **Admin Functionality**: Special features for administrators to manage products and users.
 
 ## Installation
