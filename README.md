@@ -31,13 +31,7 @@ Welcome to the MERN Grocery Shop Project! This project is built using the MERN (
    cd Grocery-client
    ```
 
-3. Install backend dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Install frontend dependencies:
+3. Install frontend dependencies:
 
    ```bash
    npm install
@@ -53,7 +47,7 @@ Welcome to the MERN Grocery Shop Project! This project is built using the MERN (
 1. Start the frontend:
 
    ```bash
-   cd frontend
+   cd Grocery-client
    npm start
    ```
 
